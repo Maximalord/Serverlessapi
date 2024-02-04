@@ -10,13 +10,11 @@ This Azure Functions project utilizes serverless functions to retrieve movie inf
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Functionality](#functionality)
 - [Folder Structure](#folder-structure)
 - [Monitoring](#monitoring)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
@@ -34,34 +32,15 @@ This project demonstrates how to create an Azure Functions API with serverless f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone (https://github.com/Maximalord/Serverlessapi.git)
    ```
 
-2. Change into the project directory:
-
-   ```bash
-   cd your-repo
-   ```
-
-3. Install dependencies:
+2.  Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-## Usage
-
-1. Run the Azure Functions project locally:
-
-   ```bash
-   func start
-   ```
-
-2. Test the function locally using a tool like cURL or a web browser:
-
-   ```
-   http://localhost:7071/api/GetMovieInfo?title=Inception
-   ```
 
 ## Functionality
 
@@ -86,18 +65,12 @@ This project demonstrates how to create an Azure Functions API with serverless f
 
 Enable and configure Application Insights for monitoring your Azure Functions. Refer to [Step 9](#9-monitor-and-diagnose) in the README for details.
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For questions or feedback, contact [Your Name](mailto:your.email@example.com).
 
 ```
 
-Replace `your-username` and `your-repo` with your actual GitHub username and repository name. Adjust the contact information, license, and other sections as needed for your project. This README provides an overview, instructions for getting started, details about functionality, and information on how to contribute.
+
