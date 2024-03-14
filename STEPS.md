@@ -1,4 +1,4 @@
-Certainly, here are concise steps to create the Azure Functions API with serverless functions that display movie information:
+Here are concise steps to create the Azure Functions API with serverless functions that display movie information:
 
 1. **Setup Azure Account:**
    - Sign up for an Azure account: [Azure Portal](https://portal.azure.com/).
